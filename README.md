@@ -1,2 +1,2 @@
-# MagmaHouse
- MagmaHouse Minecraft-Server forum
+# MyFirst GitHub
+ Hello every one!
