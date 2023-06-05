@@ -1,2 +1,2 @@
 # MyFirst GitHub
- Hello every one!
+ Думаю, пора отредактировать
